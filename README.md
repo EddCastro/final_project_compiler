@@ -50,3 +50,9 @@ Ese resultado significa que el proyecto base **compila y está listo para usar**
 - No agregar librerías externas.
 - No modificar los tests para ocultar fallos.
 - Implementar la solución dentro de `src/`.
+
+## Evidencia de pruebas
+
+Resultado de ejecución de pruebas:
+
+![Resultado de pruebas](assets/test-result.png)
